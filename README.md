@@ -6,7 +6,7 @@
 
 1. [Visual Studio Code](#visual-studio-code)
 
-   1. [Keybindings.js](#1.-keybindings.js)
+   1. [Keybindings.json](#1.-keybindings.json)
 
       * [Keybindings Summary](#keybindings-summary)
 
@@ -36,11 +36,11 @@
 
 # [Visual Studio Code](#index)
 
-### [1. Keybindings.js](#index)
+### [1. Keybindings.json](#index)
 
 Press  `Cmd + Shift + P` to open Keybindings.json(Keyboard Shortcuts) in Visual Studio Code.
 
-```json
+```javascript
 [
     // Debug Run and Stop
     { // Debug Run
@@ -100,7 +100,7 @@ Press  `Cmd + Shift + P` to open Keybindings.json(Keyboard Shortcuts) in Visual 
 
 ### [1. Debug mode Run / Stop](#index)
 
-```json
+```javascript
 // Debug Run and Stop
 { // Debug Run
   "key": "cmd+enter",
@@ -120,7 +120,7 @@ Press `Cmd+Enter` to if you want to debug Visual Studio Code, press `Cmd+Shift+E
 
 ### [2. Editor Viewer Switch Key](#index)
 
-```json
+```javascript
 {
 	"key": "cmd+1",
 	  "command": "workbench.action.openEditorAtIndex1"
