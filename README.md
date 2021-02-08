@@ -7,30 +7,8 @@
 1. [Visual Studio Code](#visual-studio-code)
 
    1. [Keybindings.json](#1.-keybindings.json)
-
-      * [Keybindings Summary](#keybindings-summary)
-
-        * [1. Debug mode Run / Stop](#1.-debug-mode-run-/-stop)
-
-        * [2. Editor Viewer Switch Key](#2.-editor-viewer-switch-key)
-
-   2. [Extensions](#2.-extensions)
-
-      * [Tools](#tools)
-        1. Bracket Pair Colorizer
-        2. Git Graph
-        3. GitHub Pull Requests and Issues
-        4. Material Icon Theme
-        5. Prettier - Code formatter
-      * [Develop](#develop)
-        1. ESLint
-        2. ES7 React/Redux/GraphQL/React-Native Snippets
-        3. HTML CSS Support
-
-      * Extensions Summary
-        * *writing*....
-
-
+      * [1. Debug mode Run / Stop](#1.-debug-mode-run-/-stop)
+      * [2. Editor Viewer Switch Key](#2.-editor-viewer-switch-key)
 
 
 
@@ -160,23 +138,4 @@ Press `Cmd+Enter` to if you want to debug Visual Studio Code, press `Cmd+Shift+E
 ```
 
 If you want Switch for Editor Viewer `cmd + any number key`
-
-## [2. Extensions](#index)
-
-### Tools
-
-1. [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-2. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
-3. [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-4. [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-5. [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-
-
-### Develop
-
-1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
-2. [ES7 React/Redux/GraphQL/React-Native Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
-3. [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
-4. [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
 
