@@ -7,14 +7,15 @@
 1. [Visual Studio Code](#visual-studio-code)
 
    1. [Keybindings.json](#1.-keybindings.json)
-      * [1. Debug mode Run / Stop](#1.-debug-mode-run-/-stop)
-      * [2. Editor Viewer Switch Key](#2.-editor-viewer-switch-key)
+      1. Debug mode Run / Stop
+      2. Editor Viewer Switch Key
+
 
 
 
 # [Visual Studio Code](#index)
 
-### [1. Keybindings.json](#index)
+### 1. Keybindings.json
 
 Press  `Cmd + Shift + P` to open Keybindings.json(Keyboard Shortcuts) in Visual Studio Code.
 
@@ -74,9 +75,9 @@ Press  `Cmd + Shift + P` to open Keybindings.json(Keyboard Shortcuts) in Visual 
 
 
 
-## [Keybindings Summary](#index)
+## Keybindings Summary
 
-### [1. Debug mode Run / Stop](#index)
+### 1. Debug mode Run / Stop
 
 ```javascript
 // Debug Run and Stop
@@ -96,7 +97,7 @@ Press `Cmd+Enter` to if you want to debug Visual Studio Code, press `Cmd+Shift+E
 
 
 
-### [2. Editor Viewer Switch Key](#index)
+### 2. Editor Viewer Switch Key
 
 ```javascript
 {
