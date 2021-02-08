@@ -138,4 +138,3 @@ Press `Cmd+Enter` to if you want to debug Visual Studio Code, press `Cmd+Shift+E
 ```
 
 If you want Switch for Editor Viewer `cmd + any number key`
-
