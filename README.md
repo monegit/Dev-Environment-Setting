@@ -6,7 +6,7 @@
 
 1. [Visual Studio Code](#visual-studio-code)
 
-   1. [Keybindings.json](#1.-keybindings.json)
+   1. Keybindings.json
       1. Debug mode Run / Stop
       2. Editor Viewer Switch Key
 
