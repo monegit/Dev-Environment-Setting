@@ -1,4 +1,6 @@
 code --install-extensions CoenraadS.bracket-pair-colorizer
+code --install-extensions Dart-Code.dart-code
+code --install-extensions Dart-Code.flutter
 code --install-extensions dbaeumer.vscode-eslint
 code --install-extensions dsznajder.es7-react-js-snippets
 code --install-extensions ecmel.vscode-html-css
