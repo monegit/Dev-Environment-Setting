@@ -1,3 +1,5 @@
+> ⚠️ 업데이트 중단
+
 > **This document was written based on the MacOS.**
 
 
